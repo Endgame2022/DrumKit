@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.8edfbb20.css",
-    "main.js": "/static/js/main.4d9ac5bf.js",
-    "static/media/ride.wav": "/static/media/ride.44e6385400f6b7c38f7c.wav",
-    "static/media/openhat.wav": "/static/media/openhat.482e523113fddc21f663.wav",
-    "static/media/boom.wav": "/static/media/boom.d89f41a5296c9cc8d21e.wav",
-    "static/media/tom.wav": "/static/media/tom.52db9c2303efd5360380.wav",
-    "static/media/clap.wav": "/static/media/clap.eb738e5291d099fc97b4.wav",
-    "static/media/hihat.wav": "/static/media/hihat.0273528cafd1985aa0e4.wav",
-    "static/media/snare.wav": "/static/media/snare.3aa3f94341c18d1e00d1.wav",
-    "static/media/kick.wav": "/static/media/kick.1d842c5565abcec54198.wav",
-    "static/media/tink.wav": "/static/media/tink.5b878d5df85f3294ee04.wav",
-    "index.html": "/index.html",
-    "main.8edfbb20.css.map": "/static/css/main.8edfbb20.css.map",
-    "main.4d9ac5bf.js.map": "/static/js/main.4d9ac5bf.js.map"
+    "main.css": "/DrumKit/static/css/main.8edfbb20.css",
+    "main.js": "/DrumKit/static/js/main.e93fc14e.js",
+    "static/media/ride.wav": "/DrumKit/static/media/ride.44e6385400f6b7c38f7c.wav",
+    "static/media/openhat.wav": "/DrumKit/static/media/openhat.482e523113fddc21f663.wav",
+    "static/media/boom.wav": "/DrumKit/static/media/boom.d89f41a5296c9cc8d21e.wav",
+    "static/media/tom.wav": "/DrumKit/static/media/tom.52db9c2303efd5360380.wav",
+    "static/media/clap.wav": "/DrumKit/static/media/clap.eb738e5291d099fc97b4.wav",
+    "static/media/hihat.wav": "/DrumKit/static/media/hihat.0273528cafd1985aa0e4.wav",
+    "static/media/snare.wav": "/DrumKit/static/media/snare.3aa3f94341c18d1e00d1.wav",
+    "static/media/kick.wav": "/DrumKit/static/media/kick.1d842c5565abcec54198.wav",
+    "static/media/tink.wav": "/DrumKit/static/media/tink.5b878d5df85f3294ee04.wav",
+    "index.html": "/DrumKit/index.html",
+    "main.8edfbb20.css.map": "/DrumKit/static/css/main.8edfbb20.css.map",
+    "main.e93fc14e.js.map": "/DrumKit/static/js/main.e93fc14e.js.map"
   },
   "entrypoints": [
     "static/css/main.8edfbb20.css",
-    "static/js/main.4d9ac5bf.js"
+    "static/js/main.e93fc14e.js"
   ]
 }
