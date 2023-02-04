@@ -1,0 +1,2 @@
+*{font-family:Fira Sans,sans-serif;margin:0;padding:0}.App{align-items:center;display:flex;flex-direction:column;padding-top:128px}h1{font-size:3rem;margin-bottom:2rem}.drums{justify-content:center}.drum,.drums{align-items:center;display:flex}.drum{background-color:#daa520;border-radius:1rem;cursor:pointer;height:100px;margin-left:1rem;margin-right:1rem;transition:.1s;width:100px}.drum:hover{opacity:.7}.drum:active,.drum:playing{-webkit-transform:scale(1);transform:scale(1)}.drum .key{color:#fff;font-size:3rem}
+/*# sourceMappingURL=main.8edfbb20.css.map*/
